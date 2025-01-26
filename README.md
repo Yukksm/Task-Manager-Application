@@ -2,6 +2,7 @@
 
 ## Overview
 A Java-based task management system enabling user registration, login, task tracking, and performance dashboard.
+Run the MainProgram.java to run the application
 
 ## Features
 - User Registration and Authentication
